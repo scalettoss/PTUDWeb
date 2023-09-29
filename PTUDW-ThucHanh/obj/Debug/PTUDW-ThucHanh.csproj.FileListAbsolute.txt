@@ -77,3 +77,10 @@ D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\obj\Debug\PTUDW-ThucHanh.csproj.C
 D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\obj\Debug\PTUDW-ThucHanh.csproj.CopyComplete
 D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\obj\Debug\PTUDW-ThucHanh.dll
 D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\obj\Debug\PTUDW-ThucHanh.pdb
+D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\bin\EntityFramework.dll
+D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\bin\EntityFramework.SqlServer.dll
+D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\bin\EntityFramework.xml
+D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\bin\EntityFramework.SqlServer.xml
+D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\bin\MyClass.dll
+D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\bin\MyClass.pdb
+D:\VSTIM\ASP-NET\PTUDW-ThucHanh\PTUDW-ThucHanh\bin\MyClass.dll.config
